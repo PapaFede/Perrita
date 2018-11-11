@@ -1,0 +1,11 @@
+
+Thanks. (For now...)
+
+Community of Ardoboy:
+-Pharap:  for teaching me
+-Filmote: for the development of the library Font3x5.
+-City41:  for the development of the drawBitmap.cpp.
+
+
+
+
